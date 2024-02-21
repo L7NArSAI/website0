@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(0, 255, 255) ;
+    margin: auto;
+}
+table{
+    background-color:rgb(206, 54, 12);
+    border-radius: 1%;
+    border-style:double;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color: rgb(0, 255, 85);
+    text-align: center;
+    align-items: center;
+    border-width: 15px;
+    box-shadow: 6px 5px #15b01a ;
+    
+
+}
